@@ -72,6 +72,8 @@ For API testing, i have provided Postman collection file: [feedback_tool.postman
 
 A backup of the database is also available in the `db_backup` directory.
 
-## Usage
+## Entity Relationship Diagram (ERD)
+
+![ERD](Feedback-tool-ERD.png)
 
 ...
