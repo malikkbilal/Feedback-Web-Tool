@@ -66,7 +66,7 @@ Visit [http://localhost:8000](http://localhost:8000) in your browser to access t
 
 ### Postman Collection
 
-For API testing, i have provided Postman collection file: [feedback_tool.postman_collection.json](postman/feedback_tool.postman_collection.json).
+For API testing, i have provided Postman collection file: [feedback_tool.postman_collection.json](https://github.com/malikkbilal/Feedback-Web-Tool/blob/main/feedback-tool-collection.postman_collection.json).
 
 ### Database Backup
 
